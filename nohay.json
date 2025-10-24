@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Akhri Sajda",
+    "reciter": "Nadeem Sarwar",
+    "year": "2025",
+    "youtube": "https://www.youtube.com/embed/al0NW9tfkmk",
+    "lyrics_urdu": ["عباس کا نعرہ", "یا حسین کی صدا"],
+    "lyrics_roman": ["Abbas ka naara", "Ya Hussain ki sada"]
+  },
+  {
+    "title": "Bismillah Alamdar",
+    "reciter": "Kazmi Brothers",
+    "year": "2025",
+    "youtube": "https://www.youtube.com/embed/FFhY-fwnDC0",
+    "lyrics_urdu": ["بسم اللہ علمدار", "لبیک یا حسین"],
+    "lyrics_roman": ["Bismillah Alamdar", "Labbaik Ya Hussain"]
+  },
+  {
+    "title": "Ghazi Uth Waikh",
+    "reciter": "Mir Hasan Mir",
+    "year": "2025",
+    "youtube": "https://www.youtube.com/embed/DfoSf1XR138",
+    "lyrics_urdu": ["غازی اٹھ ویکھ", "کربلا دی زمیں ہل گئی"],
+    "lyrics_roman": ["Ghazi uth waikh", "Karbala di zameen hil gayi"]
+  },
+  {
+    "title": "Labbaik Ya Hussain",
+    "reciter": "Shahid Baltistani",
+    "year": "2025",
+    "youtube": "https://www.youtube.com/embed/W3g1irlADCI",
+    "lyrics_urdu": ["لبیک یا حسین", "لبیک یا عباس"],
+    "lyrics_roman": ["Labbaik Ya Hussain", "Labbaik Ya Abbas"]
+  },
+  {
+    "title": "Akber Tarap Uthe",
+    "reciter": "Shadman Raza",
+    "year": "2025",
+    "youtube": "https://www.youtube.com/embed/gPlAEW_jObQ",
+    "lyrics_urdu": ["اکبر ترپ اٹھے", "ماں کو پکارا"],
+    "lyrics_roman": ["Akber tarap uthe", "Maan ko pukara"]
+  }
+]
