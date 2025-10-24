@@ -4,70 +4,11 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Noha Vault</title>
-  <style>
-    body {
-      background-color: #121212;
-      color: #f0f0f0;
-      font-family: 'Noto Nastaliq Urdu', serif;
-      margin: 0;
-      padding: 20px;
-    }
-    h1 {
-      text-align: center;
-      font-size: 2em;
-      margin-bottom: 30px;
-    }
-    .reciter {
-      margin-bottom: 40px;
-      border-bottom: 1px solid #444;
-      padding-bottom: 20px;
-    }
-    .reciter h2 {
-      font-size: 1.5em;
-      margin-bottom: 10px;
-    }
-    iframe {
-      width: 100%;
-      height: 80px;
-      border: none;
-    }
-    .lyrics {
-      margin-top: 10px;
-      font-size: 1.2em;
-      line-height: 1.6;
-    }
-  </style>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <h1>🎧 Noha Vault – Audio Streaming</h1>
-
-  <div class="reciter">
-    <h2>Nadeem Sarwar – Akhri Sajda</h2>
-    <iframe src="https://www.youtube.com/embed/al0NW9tfkmk?autoplay=0&controls=1"></iframe>
-    <div class="lyrics">
-      <p>عباس کا نعرہ، یا حسین کی صدا</p>
-      <p>Abbas ka naara, Ya Hussain ki sada</p>
-    </div>
-  </div>
-
-  <div class="reciter">
-    <h2>Kazmi Brothers – Bismillah Alamdar</h2>
-    <iframe src="https://www.youtube.com/embed/FFhY-fwnDC0?autoplay=0&controls=1"></iframe>
-  </div>
-
-  <div class="reciter">
-    <h2>Mir Hasan Mir – Ghazi Uth Waikh</h2>
-    <iframe src="https://www.youtube.com/embed/DfoSf1XR138?autoplay=0&controls=1"></iframe>
-  </div>
-
-  <div class="reciter">
-    <h2>Shahid Baltistani – Labbaik Ya Hussain</h2>
-    <iframe src="https://www.youtube.com/embed/W3g1irlADCI?autoplay=0&controls=1"></iframe>
-  </div>
-
-  <div class="reciter">
-    <h2>Shadman Raza – Akber Tarap Uthe</h2>
-    <iframe src="https://www.youtube.com/embed/gPlAEW_jObQ?autoplay=0&controls=1"></iframe>
-  </div>
+  <div id="noha-container"></div>
+  <script src="app.js"></script>
 </body>
 </html>
